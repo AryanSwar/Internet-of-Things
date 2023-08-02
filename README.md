@@ -1,2 +1,1 @@
-# Internet-of-Things
-IoT project code
+Smart Parking System using Arduino UNO.
